@@ -25,12 +25,7 @@ http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_w787106714_b81400
 http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8
 
 ######### Reality Show - A QUINTA ############
-#EXTINF:-1, Reality - A QUINTA
+#EXTINF:-1, Reality - A QUINTA, [COLOR lawngreen] TVI 24 [/COLOR]
 http://62.210.82.241:1935/liverepeat/TVIReality24/live.m3u8
-
-######### BENFICA TV 1 ############
-#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-logo="Benfica TV 1.png" group-title="PORTUGAL",[COLOR lawngreen] BTV [/COLOR]
-rtmp://$OPT:rtmp-raw=rtmp://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
-
 
 
