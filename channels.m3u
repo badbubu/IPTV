@@ -1,0 +1,26 @@
+#EXTM3U
+
+######### RTP 1 ############
+#EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/quvwwq1438183825.png" group-title="PORTUGAL",[COLOR lawngreen] RTP1 [/COLOR]
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/playlist.m3u8
+
+######### RTP 2 ############
+#EXTINF:-1 tvg-id="rtp2.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/qpxxwq1438185552.png" group-title="PORTUGAL",[COLOR lawngreen] RTP2 [/COLOR]
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp2.smil/playlist.m3u8
+
+######### RTP 3 ############
+#EXTINF:-1 tvg-id="" tvg-logo="RTP3.jpg",[COLOR lawngreen] RTP3 [/COLOR]
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpn.smil/playlis.m3u8
+
+######### SIC noticias ############
+#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/wtpyqt1436899156.png" group-title="PORTUGAL",[COLOR lawngreen] SIC NOTÃCIAS [/COLOR] rtmp
+rtmp://213.13.26.11/live playpath=sicnoticias swfUrl=http://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=http://rd.videos.sapo.cv/playhtml?file=http://rd.videos.sapo.cv/o7sf94LpzBDc94GY3N4i/mov/24
+
+######### TVI ############
+#EXTINF:-1 tvg-id="TVI.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/qwwusv1434076725.png" group-title="PORTUGAL",[COLOR lawngreen] TVI [/COLOR]
+http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_w787106714_b814000.m3u8
+
+######### TVI 24 ############
+#EXTINF:-1 tvg-id="TVI24.pt" tvg-logo="TVI 24hs.png" group-title="PORTUGAL",[COLOR lawngreen] TVI 24 [/COLOR]
+http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8
+
