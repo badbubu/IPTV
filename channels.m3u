@@ -13,7 +13,7 @@ http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp2.smil/playlis
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpn.smil/playlis.m3u8
 
 ######### SIC noticias ############
-#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/wtpyqt1436899156.png" group-title="PORTUGAL",[COLOR lawngreen] SIC NOTÃCIAS [/COLOR] rtmp
+#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/wtpyqt1436899156.png" group-title="PORTUGAL",[COLOR lawngreen] SIC Notícias [/COLOR] rtmp
 rtmp://213.13.26.11/live playpath=sicnoticias swfUrl=http://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=http://rd.videos.sapo.cv/playhtml?file=http://rd.videos.sapo.cv/o7sf94LpzBDc94GY3N4i/mov/24
 
 ######### TVI ############
