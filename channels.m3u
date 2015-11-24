@@ -31,20 +31,51 @@ http://62.210.82.241:1935/liverepeat/TVIReality24/live.m3u8
 ######### Canal Q ###############
 #EXTINF:-1,  [COLOR lawngreen]Canal Q [/COLOR]
 
-
 ######## A Bola TV #############
 #EXTINF:-1,  [COLOR lawngreen]A Bola TV [/COLOR]
-URL:http://portal.rapidiptv.com:8080/live/channel/update/5540.m3u
 
-#EXTINF:-1, Sport TV 1
-rtmp://$OPT:rtmp-raw=rtmp://174.37.252.220/stream playpath=putas2?id=14498&pk=b78e0750ff52d5025a95f7030f03cbec6015708ecd6f580cdac602e292a77e0c swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf pageUrl=http://www.liveflashplayer.net/embedplayer/putas2/1/600/450 Conn=S:OK –live
-#EXTINF:-1, Sport TV 2
-rtmp://$OPT:rtmp-raw=rtmp://146.185.16.64/live playpath=sp2artur?id=81076&pk=b78e0750ff52d5025a95f7030f03cbec6015708ecd6f580cdac602e292a77e0c swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf pageUrl=http://www.embeducaster.com/embedplayer/sp2artur/1/600/450 Conn=S:OK –live
-#EXTINF:-1, Sport TV 3
-rtmp://$OPT:rtmp-raw=rtmp://5.63.149.236/live playpath=sp3eoi?id=81481&pk=b78e0750ff52d5025a95f7030f03cbec6015708ecd6f580cdac602e292a77e0c swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf pageUrl=http://www.embeducaster.com/embedplayer/sp3eoi/1/600/450 Conn=S:OK –live
-#EXTINF:-1, Sport TV 4
-rtmp://$OPT:rtmp-raw=rtmp://198.144.153.138:443/kuyo playpath=letssee?pk=c1daac451f1f2ed27f71af0c02749fcb&pid=3130392e3233362e34302e3338 swfUrl=http://yukons.net/yplay2.swf pageUrl=http://yukons.net/embed/3643363537343733373336353635/0d9388cd06b28d2de4d731bfbfa5ee40/650/500
-Conn=S:OK –live
-#EXTINF:-1, Sport TV 5
-rtmp://$OPT:rtmp-raw=rtmp://198.144.153.140:443/kuyo playpath=letssee?pk=c1daac451f1f2ed27f71af0c02749fcb&pid=3130392e3233362e34302e3338 swfUrl=http://yukons.net/yplay2.swf pageUrl=http://yukons.net/embed/3643363537343733373336353635/0d9388cd06b28d2de4d731bfbfa5ee40/650/500
-Conn=S:OK –live
+######## Benfica TV ############
+#EXTINF:-1,  [COLOR lawngreen]Benfica TV [/COLOR]
+http://clickone.tvzune.org:8080/livex/benficatv.m3u8
+
+#EXTINF:-1,  [COLOR lawngreen]Benfica TV [/COLOR]
+http://noscdn1.connectedviews.com:1935/live/nickelodeon.stream/livestream.m3u8
+
+#EXTINF:-1,SPORT TV 1 SD
+http://37.59.45.208:1234/live/clikmega/@gmail.com/46.m3u8
+#EXTINF:-1,SPORT TV 1 HD
+http://37.59.45.208:1234/live/clikmega/@gmail.com/47.m3u8
+#EXTINF:-1,SPORT TV 2 SD
+http://37.59.45.208:1234/live/clikmega/@gmail.com/48.m3u8
+#EXTINF:-1,SPORT TV 3 SD
+http://37.59.45.208:1234/live/clikmega/@gmail.com/49.m3u8
+#EXTINF:-1,SPORT TV 4 SD
+http://37.59.45.208:1234/live/clikmega/@gmail.com/50.m3u8
+#EXTINF:-1,SPORT TV 5 SD
+http://37.59.45.208:1234/live/clikmega/@gmail.com/51.m3u8
+#EXTINF:-1,BENFICA TV 1 SD
+http://37.59.45.208:1234/live/clikmega/@gmail.com/52.m3u8
+#EXTINF:-1,BENFICA TV 2 SD
+http://37.59.45.208:1234/live/clikmega/@gmail.com/53.m3u8
+#EXTINF:-1,SPORTING TV SD
+http://37.59.45.208:1234/live/clikmega/@gmail.com/54.m3u8
+#EXTINF:-1,SPORT TV 1 SD PURA
+http://37.59.45.208:1234/live/clikmega/@gmail.com/68.m3u8
+#EXTINF:-1,BENFICA TV 1 SD PURA
+http://37.59.45.208:1234/live/clikmega/@gmail.com/69.m3u8
+#EXTINF:-1,A BOLA TV
+http://37.59.45.208:1234/live/clikmega/@gmail.com/70.m3u8
+#EXTINF:-1,REAL MADRID TV
+http://37.59.45.208:1234/live/clikmega/@gmail.com/88.m3u8
+#EXTINF:-1,NBA TV
+http://37.59.45.208:1234/live/clikmega/@gmail.com/89.m3u8
+#EXTINF:-1,CM TV
+http://37.59.45.208:1234/live/clikmega/@gmail.com/99.m3u8
+#EXTINF:,HBO 2
+http://192.241.161.223:80/freetvbrasil.com/ch105/mpeg.2ts?live.m3u8
+#EXTINF:,HBO FAMILY
+http://192.241.161.223:80/freetvbrasil.com/ch103/mpeg.2ts?live.m3u8
+#EXTINF:,HBO PLUS
+http://76.73.108.36:80/hls-live/livepkgr/_definst_/hboplus/hboplus.m3u8
+#EXTINF:,HBO PLUS
+http://192.241.161.223:80/freetvbrasil.com/ch104/mpeg.2ts?live.m3u8
