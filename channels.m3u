@@ -66,6 +66,7 @@ rtmpe://r.livecast.cc/rs// playpath=live3-qszlx swfUrl=http://89123987015532.com
 
 ######### Sport TV 4 ############
 #EXTINF:-1, [COLOR lawngreen] Sport TV 4 [/COLOR]
+rtmpe://5.153.233.106:443/share/ playpath=live4-w04by swfUrl=http://sharecast.to/player/player20.swf live=1 pageUrl=http://sharecast.to
 
 ######### Sport TV 5 ############
 #EXTINF:-1, [COLOR lawngreen] Sport TV 5 [/COLOR]
