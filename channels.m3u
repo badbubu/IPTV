@@ -69,10 +69,7 @@ http://195.244.40.135:8000/play/a020
 http://selling-team.net:8000/live/castiglione/castiglione/6034.m3u8
 
 #EXTINF:-1, [COLOR lawngreen] Benfica TV 1 [/COLOR]
-http://pt-stream.fubotv.com.a.prod.fastly.net:80/Benfica-TV/BenficaHD.stream_source/chunklist_b2628000.m3u8
-
-#EXTINF:-1, [COLOR lawngreen] Benfica TV 1 [/COLOR]
-http://pt-stream.fubotv.com.a.prod.fastly.net:80/Benfica-TV/ngrp:BenficaHD.stream_all/chunklist_b2628000.m3u8
+http://pt-stream.fubotv.com.a.prod.fastly.net:80/Benfica-TV/BenficaHD.stream_720p/chunklist_b2628000.m3u8
 
 ######### Benfica TV 2 ############
 #EXTINF:-1, [COLOR lawngreen] Benfica TV 2 [/COLOR]
@@ -81,7 +78,4 @@ http://31.204.128.112:8081/live/portugal2/playlist.m3u8
 ######### Sport TV Americas ############
 #EXTINF:-1, [COLOR lawngreen] Sport TV Américas [/COLOR]
 http://sporttvamericas-i.akamaihd.net/hls/live/227427/SportTVAmericas/master1300kbps.m3u8
-
-#EXTINF:-1, [COLOR lawngreen] Sport TV Américas [/COLOR]
-http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/master.m3u8
 
