@@ -54,20 +54,19 @@ http://31.204.128.112:8081/live/portugal1/playlist.m3u8
 #EXTINF:-1, [COLOR lawngreen] Sport TV 2 [/COLOR]
 http://195.244.40.135:8000/play/a01w 
 
-#EXTINF:-1, [COLOR lawngreen] Sport TV 2 [/COLOR]
-http://brodcast-2.zuneserver.com:10007/live/William/sl7bxnUBrg/15.m3u8
-
 ######### Sport TV 3 ############
 #EXTINF:-1, [COLOR lawngreen] Sport TV 3 [/COLOR]
 http://195.244.40.135:8000/play/a020
 
-######### Sport TV 4 ############
-#EXTINF:-1, [COLOR lawngreen] Sport TV 4 [/COLOR]
+#EXTINF:-1, [COLOR lawngreen] Sport TV 3 [/COLOR]
+http://iptv.wssiptv.com:80/live/PlusPlusBeinSportHD/PlusPlusBeinSportHD/415.ts
 
+######### Sport TV 4 ############
 #EXTINF:-1, [COLOR lawngreen] Sport TV 4 [/COLOR]
 
 ######### Sport TV 5 ############
 #EXTINF:-1, [COLOR lawngreen] Sport TV 5 [/COLOR]
+http://brodcast-2.zuneserver.com:10007/live/William/sl7bxnUBrg/18.m3u8
 
 ######### Benfica TV 1 ############
 #EXTINF:-1, [COLOR lawngreen] Benfica TV 1 [/COLOR]
