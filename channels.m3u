@@ -59,7 +59,7 @@ http://195.244.40.135:8000/play/a01w
 http://195.244.40.135:8000/play/a020
 
 #EXTINF:-1, [COLOR lawngreen] Sport TV 3 [/COLOR]
-http://iptv.wssiptv.com:80/live/PlusPlusBeinSportHD/PlusPlusBeinSportHD/415.ts
+rtmpe://r.livecast.cc/rs// playpath=live3-qszlx swfUrl=http://89123987015532.com/sc/player/player20.swf live=1 pageUrl=http://sharecast.to/embed.php?ch=live3-qszlx timeout=15
 
 ######### Sport TV 4 ############
 #EXTINF:-1, [COLOR lawngreen] Sport TV 4 [/COLOR]
@@ -78,3 +78,7 @@ http://selling-team.net:8000/live/castiglione/castiglione/6034.m3u8
 ######### Sport TV Americas ############
 #EXTINF:-1, [COLOR lawngreen] Sport TV Américas [/COLOR]
 http://sporttvamericas-i.akamaihd.net/hls/live/227427/SportTVAmericas/master1300kbps.m3u8
+
+#EXTINF:-1, [COLOR lawngreen] Sport TV Américas [/COLOR]
+http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/master.m3u8
+
