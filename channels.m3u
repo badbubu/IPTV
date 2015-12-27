@@ -35,19 +35,16 @@ http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8
 
 ######## TVCine 1 #############
 #EXTINF:-1, [COLOR lawngreen] TVCine 1 - OFF[/COLOR]
-http://self-iptv.sytes.net:8000/live/e-mail/self-iptv@hotmail.com/16.ts
+http://top-iptv.zapto.org:8000/live/walid/walid/519.ts
 
 ######## TVCine 2 #############
 #EXTINF:-1, [COLOR lawngreen] TVCine 2 - OFF[/COLOR]
-http://self-iptv.sytes.net:8000/live/e-mail/self-iptv@hotmail.com/17.ts
 
 ######## TVCine 3 #############
 #EXTINF:-1, [COLOR lawngreen] TVCine 3 - OFF[/COLOR]
-http://self-iptv.sytes.net:8000/live/e-mail/self-iptv@hotmail.com/18.ts
 
 ######## TVCine 4 #############
 #EXTINF:-1, [COLOR lawngreen] TVCine 4 - OFF[/COLOR]
-http://self-iptv.sytes.net:8000/live/e-mail/self-iptv@hotmail.com/22.ts
 
 ######### Sport TV 1 ############
 #EXTINF:-1, [COLOR lawngreen] Sport TV 1 [/COLOR]
@@ -55,6 +52,7 @@ http://31.204.128.112:8081/live/portugal1/playlist.m3u8
 
 ######### Sport TV 2 ############
 #EXTINF:-1, [COLOR lawngreen] Sport TV 2 [/COLOR]
+http://self-iptv.sytes.net:8000/live/e-mail/self-iptv@hotmail.com/9.ts
 
 ######### Sport TV 3 ############
 #EXTINF:-1, [COLOR lawngreen] Sport TV 3 [/COLOR]
@@ -69,6 +67,7 @@ http://31.204.128.112:8081/live/portugal1/playlist.m3u8
 
 ######### Benfica TV 1 ############
 #EXTINF:-1, [COLOR lawngreen] Benfica TV 1 [/COLOR]
+http://selling-team.net:8000/live/castiglione/castiglione/6034.m3u8
 
 ######### Benfica TV 2 ############
 #EXTINF:-1, [COLOR lawngreen] Benfica TV 2 [/COLOR]
