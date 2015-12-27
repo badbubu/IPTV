@@ -28,15 +28,77 @@ http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8
 #EXTINF:-1,  [COLOR lawngreen]Reality - A QUINTA [/COLOR]
 http://62.210.82.241:1935/liverepeat/TVIReality24/live.m3u8
 
+######### CM TV ###############
+#EXTINF:-1, [COLOR lawngreen]CM TV [/COLOR]
+http://portal.rapidiptv.com:8080/live/Maki/maki/3236.ts
+
 ######### Canal Q ###############
-#EXTINF:-1,  [COLOR lawngreen]Canal Q [/COLOR]
+#EXTINF:-1, [COLOR lawngreen]Canal Q [/COLOR]
 
 ######## A Bola TV #############
-#EXTINF:-1,  [COLOR lawngreen]A Bola TV [/COLOR]
+#EXTINF:-1, [COLOR lawngreen]A Bola TV [/COLOR]
+http://portal.rapidiptv.com:8080/live/Maki/maki/5540.ts
+
+######## CBC Reality #############
+#EXTINF:-1,PT: [COLOR lawngreen]CBC Reality [/COLOR]
+http://portal.rapidiptv.com:8080/live/Maki/maki/3215.ts
+
+######## TVCine 4 #############
+#EXTINF:-1,PT: [COLOR lawngreen] TVCine 4 [/COLOR]
+http://portal.rapidiptv.com:8080/live/Maki/maki/5548.ts
+
+######## TVCine 3 #############
+#EXTINF:-1,PT: [COLOR lawngreen] TVCine 3 [/COLOR]
+http://portal.rapidiptv.com:8080/live/Maki/maki/5547.ts
+
+######## TVCine 2 #############
+#EXTINF:-1,PT: [COLOR lawngreen] TVCine 2 [/COLOR]
+http://portal.rapidiptv.com:8080/live/Maki/maki/5546.ts
+
+######## TVCine 1 #############
+#EXTINF:-1,PT: [COLOR lawngreen] TVCine 1 [/COLOR]
+http://portal.rapidiptv.com:8080/live/Maki/maki/5545.ts
+
+######### Sport TV 1 ############
+#EXTINF:-1, [COLOR lawngreen] Sport TV 1 [/COLOR]
+http://31.204.128.112:8081/live/portugal1/playlist.m3u8
+
+#EXTINF:-1, [COLOR lawngreen] Sport TV 1 [/COLOR]
+http://portal.rapidiptv.com:8080/live/Maki/maki/3221.ts
+
+######### Sport TV 2 ############
+#EXTINF:-1, [COLOR lawngreen] Sport TV 2 [/COLOR]
+http://portal.rapidiptv.com:8080/live/Maki/maki/3222.ts
+
+######### Sport TV 3 ############
+#EXTINF:-1, [COLOR lawngreen] Sport TV 3 [/COLOR]
+http://portal.rapidiptv.com:8080/live/Maki/maki/3223.ts
+
+######### Sport TV 4 ############
+#EXTINF:-1, [COLOR lawngreen] Sport TV 4 [/COLOR]
+http://195.244.40.135:8000/play/a01p
+
+#EXTINF:-1, [COLOR lawngreen] Sport TV 4 [/COLOR]
+http://portal.rapidiptv.com:8080/live/Maki/maki/3224.ts
+
+######### Sport TV 5 ############
+#EXTINF:-1, [COLOR lawngreen] Sport TV 5 [/COLOR]
+http://portal.rapidiptv.com:8080/live/Maki/maki/3225.ts
+
+######### Benfica TV 1 ############
+#EXTINF:-1, [COLOR lawngreen] Benfica TV 1 [/COLOR]
+http://portal.rapidiptv.com:8080/live/Maki/maki/5541.ts
+
+#EXTINF:-1, [COLOR lawngreen] Benfica TV 1 [/COLOR]
+http://portal.rapidiptv.com:8080/live/Maki/maki/3308.ts
+
+######### Benfica TV 2 ############
+#EXTINF:-1, [COLOR lawngreen] Benfica TV 2 [/COLOR]
+http://portal.rapidiptv.com:8080/live/Maki/maki/3309.ts
 
 ######### Sport TV Americas ############
-#EXTINF:-1 tvg-id="TVI24.pt" tvg-logo="TVI 24hs.png" group-title="PORTUGAL",[COLOR lawngreen] Sport TV Américas [/COLOR]
-http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/master.m3u8
+#EXTINF:-1, [COLOR lawngreen] Sport TV Américas [/COLOR]
+http://sporttvamericas-i.akamaihd.net/hls/live/227427/SportTVAmericas/master1300kbps.m3u8
 
-#EXTINF:-1 tvg-id="TVI24.pt" tvg-logo="TVI 24hs.png" group-title="PORTUGAL",[COLOR lawngreen] Sport TV Américas [/COLOR]
-http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/mastersportTV_1300kbps.m3u
+#EXTINF:-1, [COLOR lawngreen] Sport TV Américas [/COLOR]
+http://portal.rapidiptv.com:8080/live/Maki/maki/3253.ts
