@@ -25,80 +25,54 @@ http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_w787106714_b81400
 http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8
 
 ######### CM TV ###############
-#EXTINF:-1, [COLOR lawngreen]CM TV [/COLOR]
-http://self-iptv.sytes.net:8000/live/e-mail/self-iptv@hotmail.com/7.ts
-
-#EXTINF:-1, [COLOR lawngreen]CM TV [/COLOR]
-http://iptvtt.ddns.net:8000/live/ismael/ismael/27.ts
+#EXTINF:-1, [COLOR lawngreen]CM TV - OFF[/COLOR]
 
 ######### Canal Q ###############
-#EXTINF:-1, [COLOR lawngreen]Canal Q [/COLOR]
-http://brodcast-2.zuneserver.com:10007/live/jose/S5mmy0qZdM/59.ts
+#EXTINF:-1, [COLOR lawngreen]Canal Q - OFF[/COLOR]
 
 ######## A Bola TV #############
-#EXTINF:-1, [COLOR lawngreen]A Bola TV [/COLOR]
-http://portal.rapidiptv.com:8080/live/Maki/maki/5540.ts
-
-######## CBC Reality #############
-#EXTINF:-1,PT: [COLOR lawngreen]CBC Reality [/COLOR]
-http://portal.rapidiptv.com:8080/live/Maki/maki/3215.ts
-
-######## TVCine 4 #############
-#EXTINF:-1,PT: [COLOR lawngreen] TVCine 4 [/COLOR]
-http://portal.rapidiptv.com:8080/live/Maki/maki/5548.ts
-
-######## TVCine 3 #############
-#EXTINF:-1,PT: [COLOR lawngreen] TVCine 3 [/COLOR]
-http://portal.rapidiptv.com:8080/live/Maki/maki/5547.ts
-
-######## TVCine 2 #############
-#EXTINF:-1,PT: [COLOR lawngreen] TVCine 2 [/COLOR]
-http://portal.rapidiptv.com:8080/live/Maki/maki/5546.ts
+#EXTINF:-1, [COLOR lawngreen]A Bola TV - OFF[/COLOR]
 
 ######## TVCine 1 #############
-#EXTINF:-1,PT: [COLOR lawngreen] TVCine 1 [/COLOR]
-http://portal.rapidiptv.com:8080/live/Maki/maki/5545.ts
+#EXTINF:-1, [COLOR lawngreen] TVCine 1 - OFF[/COLOR]
+http://self-iptv.sytes.net:8000/live/e-mail/self-iptv@hotmail.com/16.ts
+
+######## TVCine 2 #############
+#EXTINF:-1, [COLOR lawngreen] TVCine 2 - OFF[/COLOR]
+http://self-iptv.sytes.net:8000/live/e-mail/self-iptv@hotmail.com/17.ts
+
+######## TVCine 3 #############
+#EXTINF:-1, [COLOR lawngreen] TVCine 3 - OFF[/COLOR]
+http://self-iptv.sytes.net:8000/live/e-mail/self-iptv@hotmail.com/18.ts
+
+######## TVCine 4 #############
+#EXTINF:-1, [COLOR lawngreen] TVCine 4 - OFF[/COLOR]
+http://self-iptv.sytes.net:8000/live/e-mail/self-iptv@hotmail.com/22.ts
 
 ######### Sport TV 1 ############
 #EXTINF:-1, [COLOR lawngreen] Sport TV 1 [/COLOR]
 http://31.204.128.112:8081/live/portugal1/playlist.m3u8
 
-#EXTINF:-1, [COLOR lawngreen] Sport TV 1 [/COLOR]
-http://portal.rapidiptv.com:8080/live/Maki/maki/3221.ts
-
 ######### Sport TV 2 ############
 #EXTINF:-1, [COLOR lawngreen] Sport TV 2 [/COLOR]
-http://portal.rapidiptv.com:8080/live/Maki/maki/3222.ts
 
 ######### Sport TV 3 ############
 #EXTINF:-1, [COLOR lawngreen] Sport TV 3 [/COLOR]
-http://portal.rapidiptv.com:8080/live/Maki/maki/3223.ts
 
 ######### Sport TV 4 ############
 #EXTINF:-1, [COLOR lawngreen] Sport TV 4 [/COLOR]
-http://195.244.40.135:8000/play/a01p
 
 #EXTINF:-1, [COLOR lawngreen] Sport TV 4 [/COLOR]
-http://portal.rapidiptv.com:8080/live/Maki/maki/3224.ts
 
 ######### Sport TV 5 ############
 #EXTINF:-1, [COLOR lawngreen] Sport TV 5 [/COLOR]
-http://portal.rapidiptv.com:8080/live/Maki/maki/3225.ts
 
 ######### Benfica TV 1 ############
 #EXTINF:-1, [COLOR lawngreen] Benfica TV 1 [/COLOR]
-http://portal.rapidiptv.com:8080/live/Maki/maki/5541.ts
-
-#EXTINF:-1, [COLOR lawngreen] Benfica TV 1 [/COLOR]
-http://portal.rapidiptv.com:8080/live/Maki/maki/3308.ts
 
 ######### Benfica TV 2 ############
 #EXTINF:-1, [COLOR lawngreen] Benfica TV 2 [/COLOR]
-http://portal.rapidiptv.com:8080/live/Maki/maki/3309.ts
 
 ######### Sport TV Americas ############
 #EXTINF:-1, [COLOR lawngreen] Sport TV Américas [/COLOR]
 http://sporttvamericas-i.akamaihd.net/hls/live/227427/SportTVAmericas/master1300kbps.m3u8
-
-#EXTINF:-1, [COLOR lawngreen] Sport TV Américas [/COLOR]
-http://portal.rapidiptv.com:8080/live/Maki/maki/3253.ts
