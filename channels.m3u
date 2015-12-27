@@ -50,6 +50,9 @@ http://top-iptv.zapto.org:8000/live/walid/walid/519.ts
 #EXTINF:-1, [COLOR lawngreen] Sport TV 1 [/COLOR]
 http://31.204.128.112:8081/live/portugal1/playlist.m3u8
 
+#EXTINF:-1, [COLOR lawngreen] Sport TV 1 [/COLOR]
+rtmpe://r.livecast.cc/rs// playpath=live3-qszlx swfUrl=http://89123987015532.com/sc/player/player20.swf live=1 pageUrl=http://sharecast.to/embed.php?ch=live3-qszlx timeout=15
+
 ######### Sport TV 2 ############
 #EXTINF:-1, [COLOR lawngreen] Sport TV 2 [/COLOR]
 http://195.244.40.135:8000/play/a01w 
