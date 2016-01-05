@@ -21,11 +21,11 @@ rtmp://213.13.26.11/live playpath=sicnoticias swfUrl=http://js.sapo.pt/Projects/
 http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_w787106714_b814000.m3u8
 
 ######### TVI 24 ############
-#EXTINF:-1 tvg-id="TVI24.pt" tvg-logo="TVI 24hs.png" group-title="PORTUGAL",[COLOR lawngreen] TVI 24 [/COLOR]
+#EXTINF:-1 tvg-id="TVI24.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/wtysqy1436898428.png" group-title="PORTUGAL",[COLOR lawngreen] TVI 24 [/COLOR]
 http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8
 
 ######### CM TV ###############
-#EXTINF:-1, [COLOR lawngreen]CM TV - OFF[/COLOR]
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/uvqwuu1436843714.png" [COLOR lawngreen]CM TV [/COLOR]
 http://portal.rapidiptv.com:8080/live/mondi/mondi/3236.m3u8
 
 ######### Canal Q ###############
@@ -35,51 +35,54 @@ http://portal.rapidiptv.com:8080/live/mondi/mondi/3236.m3u8
 #EXTINF:-1, [COLOR lawngreen]A Bola TV - OFF[/COLOR]
 
 ######## TVCine 1 #############
-#EXTINF:-1, [COLOR lawngreen] TVCine 1 - OFF[/COLOR]
-http://top-iptv.zapto.org:8000/live/walid/walid/519.ts
+#EXTINF:-1, [COLOR lawngreen] TVCine 1[/COLOR]
+http://teuportal.dyndns.org:8000/live/pedro/pedro/31.ts
 
 ######## TVCine 2 #############
-#EXTINF:-1, [COLOR lawngreen] TVCine 2 - OFF[/COLOR]
+#EXTINF:-1, [COLOR lawngreen] TVCine 2[/COLOR]
+http://teuportal.dyndns.org:8000/live/pedro/pedro/30.ts
 
 ######## TVCine 3 #############
-#EXTINF:-1, [COLOR lawngreen] TVCine 3 - OFF[/COLOR]
+#EXTINF:-1, [COLOR lawngreen] TVCine 3[/COLOR]
+http://teuportal.dyndns.org:8000/live/pedro/pedro/29.ts
 
 ######## TVCine 4 #############
-#EXTINF:-1, [COLOR lawngreen] TVCine 4 - OFF[/COLOR]
+#EXTINF:-1, [COLOR lawngreen] TVCine 4[/COLOR]
+http://teuportal.dyndns.org:8000/live/pedro/pedro/28.ts
 
 ######### Sport TV 1 ############
-#EXTINF:-1, [COLOR lawngreen] Sport TV 1 [/COLOR]
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/xqyprw1436887096.png" [COLOR lawngreen] Sport TV 1 [/COLOR]
 http://31.204.128.112:8081/live/portugal1/playlist.m3u8
 
 ######### Sport TV 2 ############
-#EXTINF:-1, [COLOR lawngreen] Sport TV 2 [/COLOR]
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/rytvrr1436887081.png" [COLOR lawngreen] Sport TV 2 [/COLOR]
 http://195.244.40.135:8000/play/a01w 
 
-#EXTINF:-1, [COLOR lawngreen] Sport TV 2 [/COLOR]
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/rytvrr1436887081.png" [COLOR lawngreen] Sport TV 2 [/COLOR]
 rtmp://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
 
 ######### Sport TV 3 ############
-#EXTINF:-1, [COLOR lawngreen] Sport TV 3 [/COLOR]
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/ypsxtr1436887227.png" [COLOR lawngreen] Sport TV 3 [/COLOR]
 http://195.244.40.135:8000/play/a020
 
 ######### Sport TV 4 ############
-#EXTINF:-1, [COLOR lawngreen] Sport TV 4 - OFF[/COLOR]
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/wywyss1436887367.png" [COLOR lawngreen] Sport TV 4 - OFF[/COLOR]
 
 ######### Sport TV 5 ############
-#EXTINF:-1, [COLOR lawngreen] Sport TV 5 - OFF[/COLOR]
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/sxsvsy1436887471.png" [COLOR lawngreen] Sport TV 5 - OFF[/COLOR]
 
 ######### Benfica TV 1 ############
-#EXTINF:-1, [COLOR lawngreen] Benfica TV 1 [/COLOR]
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/yutwvs1437950085.png" [COLOR lawngreen] Benfica TV 1 [/COLOR]
 http://selling-team.net:8000/live/castiglione/castiglione/6034.m3u8
 
 ######### Benfica TV 2 ############
-#EXTINF:-1, [COLOR lawngreen] Benfica TV 2 [/COLOR]
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/yuurxu1437950094.png" [COLOR lawngreen] Benfica TV 2 [/COLOR]
 http://31.204.128.112:8081/live/portugal2/playlist.m3u8
 
-#EXTINF:-1, [COLOR lawngreen] Benfica TV 2 [/COLOR]
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/yuurxu1437950094.png" [COLOR lawngreen] Benfica TV 2 [/COLOR]
 rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=15 pageUrl=http://sharecast.to/
 
 ######### Sport TV Americas ############
-#EXTINF:-1, [COLOR lawngreen] Sport TV Américas [/COLOR]
+#EXTINF:-1 tvg-logo="https://www.sporttv.pt/img/logo-americas.png" [COLOR lawngreen] Sport TV Américas [/COLOR]
 http://sporttvamericas-i.akamaihd.net/hls/live/227427/SportTVAmericas/master1300kbps.m3u8
 
