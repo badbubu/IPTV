@@ -20,7 +20,8 @@ rtmp://213.13.26.11/live playpath=sicnoticias swfUrl=http://js.sapo.pt/Projects/
 #EXTINF:-1 tvg-id="TVI.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/qwwusv1434076725.png" group-title="PORTUGAL",[COLOR lawngreen] TVI [/COLOR]
 http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_w787106714_b814000.m3u8
 
-#EXTINF:-1 tvg-id="TVI.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/qwwusv1434076725.png" group-title="PORTUGAL",[COLOR lawngreen] TVI Reality [/COLOR]
+######### TVI Reality ############
+#EXTINF:-1 tvg-id="TVI.pt" tvg-logo="http://i.imgur.com/cK4NPF1.jpg" group-title="PORTUGAL",[COLOR lawngreen] TVI Reality [/COLOR]
 http://62.210.82.241:1935/liverepeat/TVIReality24/live.m3u8
 
 ######### TVI 24 ############
