@@ -24,6 +24,9 @@ http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_w787106714_b81400
 #EXTINF:-1 tvg-id="TVI.pt" tvg-logo="http://i.imgur.com/cK4NPF1.jpg" group-title="PORTUGAL",[COLOR lawngreen] TVI Reality [/COLOR]
 http://62.210.82.241:1935/liverepeat/TVIReality24/live.m3u8
 
+#EXTINF:-1 tvg-id="TVI.pt" tvg-logo="http://i.imgur.com/cK4NPF1.jpg" group-title="PORTUGAL",[COLOR lawngreen] TVI Reality [/COLOR]
+http://kuku.dyndns.tv:8000/live/casa/casa/16.m3u8
+
 ######### TVI 24 ############
 #EXTINF:-1 tvg-id="TVI24.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/wtysqy1436898428.png" group-title="PORTUGAL",[COLOR lawngreen] TVI 24 [/COLOR]
 http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8
