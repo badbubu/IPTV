@@ -94,5 +94,4 @@ http://sporttvamericas-i.akamaihd.net/hls/live/227427/SportTVAmericas/master1300
 http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/mastersportTV_1300kbps.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.sporttv.pt/img/logo-americas.png",[COLOR lawngreen] Sport TV Américas [/COLOR]
-rtmp://$OPT:rtmp-raw=rtmp://174.37.252.220/stream playpath=putas2?id=14498&pk=b78e0750ff52d5025a95f7030f03cbec6015708ecd6f580cdac602e292a77e0c swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf pageUrl=http://www.liveflashplayer.net/embedplayer/putas2/1/600/450 Conn=S:OK –live
-
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
