@@ -93,3 +93,6 @@ http://sporttvamericas-i.akamaihd.net/hls/live/227427/SportTVAmericas/master1300
 #EXTINF:-1 tvg-logo="https://www.sporttv.pt/img/logo-americas.png",[COLOR lawngreen] Sport TV Américas [/COLOR]
 http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/mastersportTV_1300kbps.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.sporttv.pt/img/logo-americas.png",[COLOR lawngreen] Sport TV Américas [/COLOR]
+http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/master.m3u8
+
