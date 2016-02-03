@@ -69,7 +69,7 @@ http://195.244.40.135:8000/play/a01w
 rtmp://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
 
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/rytvrr1436887081.png",[COLOR lawngreen] Sport TV 2 [/COLOR]
-http://2streamingiptv.ddns.net:18001/live/Troiano/Troiano/3651.ts
+http://tviptv.org:50100/live/dr1/dr1/312.ts
 
 ######### Sport TV 3 ############
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/ypsxtr1436887227.png",[COLOR lawngreen] Sport TV 3 [/COLOR]
