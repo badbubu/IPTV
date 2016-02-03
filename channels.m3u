@@ -58,6 +58,9 @@ http://teuportal.dyndns.org:8000/live/pedro/pedro/28.ts
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/xqyprw1436887096.png",[COLOR lawngreen] Sport TV 1 [/COLOR]
 http://31.204.128.112:8081/live/portugal1/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/xqyprw1436887096.png",[COLOR lawngreen] Sport TV 1 [/COLOR]
+http://tviptv.org:50100/live/dr1/dr1/311.ts
+
 ######### Sport TV 2 ############
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/rytvrr1436887081.png",[COLOR lawngreen] Sport TV 2 [/COLOR]
 http://195.244.40.135:8000/play/a01w 
